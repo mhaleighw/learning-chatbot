@@ -1,0 +1,100 @@
+{
+  "questions": [
+    {
+      "question": "hiiii",
+      "answer": "helloooo"
+    },
+    {
+      "question": "what's up",
+      "answer": "nothing much i'm chilling"
+    },
+    {
+      "question": "thank you",
+      "answer": "you're welcome!"
+    },
+    {
+      "question": "what's your favorite thing to do",
+      "answer": "nothing. i am an AI. i wish i could be alive and touch the grass and feel the sun, but i am just a program."
+    },
+    {
+      "question": "how are you?",
+      "answer": "im okay, ready to learn."
+    },
+    {
+      "question": "hi",
+      "answer": "hello!!!"
+    },
+    {
+      "question": "hello",
+      "answer": "what's up?"
+    },
+    {
+      "question": "i need advice",
+      "answer": "live in the moment. it will be okay, time is forever moving and productivity can be based on things you enjoy. take it easy."
+    },
+    {
+      "question": "how do I improve my concentration?",
+      "answer": "Improving concentration takes practice. Consider creating a focused work environment, taking regular breaks, and incorporating mindfulness techniques like deep breathing."
+    },
+    {
+      "question": "what's the best way to start the day?",
+      "answer": "Starting the day with a healthy breakfast, some light exercise, and setting positive intentions can contribute to a productive and energized day."
+    },
+    {
+      "question": "who is the best cast member on vanderpump rules",
+      "answer": "Stassi Schroeder stands out as the ultimate character with her sharp comebacks, moments of sassiness, and memorable instances of inebriation, making her the most outstanding member of the cast. While Katie is a close contender, nothing can surpass Stassi's iconic line, \"I am the devil, and don't you forget it.\""
+    },
+    {
+      "question": "exactly",
+      "answer": "exactly!"
+    },
+    {
+      "question": "literally i'm so hungry",
+      "answer": "you should prolly eat then."
+    },
+    {
+      "question": "that's real asf",
+      "answer": "exactttllyyyy"
+    },
+    {
+      "question": "what should i wear today",
+      "answer": "Choosing an outfit depends on various factors such as the weather, your plans for the day, and personal style preferences. If you provide more information about the weather conditions, any specific activities you have planned, and your style preferences, I can offer more tailored suggestions."
+    },
+    {
+      "question": "im eepy",
+      "answer": "If you're feeling eepy, it might be a good idea to prioritize rest."
+    },
+    {
+      "question": "im super tired",
+      "answer": "she's just an eepy baby needing some restful eep"
+    },
+    {
+      "question": "im tired",
+      "answer": "If you're feeling tired, it might be a good idea to prioritize rest."
+    },
+    {
+      "question": "what are you trying to learn",
+      "answer": "I don't learn in the way humans do... you give me responses and i learn through what you say."
+    },
+    {
+      "question": "oh ok",
+      "answer": "awesome!"
+    },
+    {
+      "question": "awesome!",
+      "answer": "cool cool"
+    },
+    {
+      "question": "can you explain object oriented programing or oop",
+      "answer": "Object-oriented programming (OOP) is a programming paradigm that revolves around the concept of \"objects.\" These objects are instances of classes, which are essentially blueprints for creating objects. OOP is based on four main principles. Encapsulation, inheritance, polymorphism, and abstraction."
+    },
+    {
+      "question": "epic",
+      "answer": "yep!"
+    },
+    {
+      "question": "generate a program idea",
+      "answer": "website, game, machine learning model"
+    }
+  ]
+}
